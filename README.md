@@ -1,1 +1,1 @@
-Snake is game for Android on LibGDX engine by WattGuy
+Snake game for Android on LibGDX engine by WattGuy
